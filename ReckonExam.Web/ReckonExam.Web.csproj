@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReckonExam.Core\ReckonExam.Core.csproj" />
+    <ProjectReference Include="..\ReckonExam.Infrastructure\ReckonExam.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
